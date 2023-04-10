@@ -22,10 +22,12 @@ Trajectory tracking adaptive control scheme.
 ## Trajectory Tracking
 
 tracking error:
+Red line is the result with the adaptive law. Blue line is the result without the adaptive law.
 
 ![image](https://user-images.githubusercontent.com/55338365/230810393-14a526a3-7356-488c-9c77-f470dad9bf29.png)
 
-desired motion command tracking error
+desired motion command tracking error:
+Red line is the result with the adaptive law. Green line is the result without the adaptive law. Blue line is the reference.
 
 ![image](https://user-images.githubusercontent.com/55338365/230809186-8c573051-8d8d-4355-8852-93d8b8eeb654.png)
 
